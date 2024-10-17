@@ -20,7 +20,7 @@ STORAGE_UNITS="600"
 GPU_MODEL=""
 GPU_UNITS="0"
 GPU_PRICE="0"
-GPU_MEMORY="0"
+GPU_MEMORY="<gpu-memory>"
 GPU_ID=""
 
 # Function to detect the operating system
